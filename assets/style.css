@@ -1,0 +1,25 @@
+body {
+  min-height: 100vh;
+}
+
+.pic-here {
+border: solid black 1px;
+border-radius: 8px;
+width: 100vw;
+height: 65vh;
+background-position: center;
+background-size: cover;
+}
+
+.form-control {
+ width: min-content;
+}
+
+.info {
+  color: white;
+  text-shadow: black 1px 1px;
+}
+
+.explanation {
+  padding-top: 38vh
+}
